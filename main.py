@@ -61,4 +61,3 @@ def plot_correlogram(x, lags=None, title=None):
 plot_correlogram(x=nvda_log,
                  lags=120,
                  title=None)
-    
